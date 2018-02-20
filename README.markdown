@@ -1,4 +1,9 @@
-# Here is a sample/template sinatra application ready for deployment to [Heroku](http://heroku.com).
+
+### Sinatra template using git submodules ready for automatic heroku deployments.
+
+*Add buildpack https://github.com/dmathieu/heroku-buildpack-submodules before `heroku/ruby`.*
+
+#### Here is a sample/template sinatra application ready for deployment to [Heroku](http://heroku.com).
 
 **NOTE** This is for heroku.com and not herokugarden.com
 
