@@ -18,8 +18,7 @@ end
 
 # Quick test
 get '/' do
-  "Congradulations!
-   You're running a Sinatra application on Heroku!"
+  File.read('Hello-World/README')
 end
 
 # Test at <appname>.heroku.com
